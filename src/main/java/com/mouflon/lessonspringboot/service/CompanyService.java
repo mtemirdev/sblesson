@@ -21,7 +21,7 @@ public class CompanyService {
         return viewMapper.viewCompany(repository.save(editMapper.create(request)));
     }
 
-    public CompanyResponse update(Long id,  CompanyRequest request) {
+     public CompanyResponse update(Long id,  CompanyRequest request) {
         Company company = repository.findById(id).get();
         editMapper.update(company, request);
         return viewMapper.viewCompany(repository.save(company));

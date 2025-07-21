@@ -24,6 +24,5 @@ public class CompanyEditMapper {
         company.setCompanyName(request.getCompanyName());
         company.setAddress(request.getAddress());
         company.setNumber(request.getNumber());
-        company.setEmail(request.getEmail());
     }
 }

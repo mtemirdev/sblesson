@@ -1,4 +1,4 @@
-package com.mouflon.lessonspringboot.dto.response;
+package com.mtemirdev.sblesson.dto.response;
 
 import lombok.Getter;
 import lombok.Setter;

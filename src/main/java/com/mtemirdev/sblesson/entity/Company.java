@@ -1,4 +1,4 @@
-package com.mouflon.lessonspringboot.entity;
+package com.mtemirdev.sblesson.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

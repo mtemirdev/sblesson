@@ -1,13 +1,13 @@
-package com.mouflon.lessonspringboot.service;
+package com.mtemirdev.sblesson.service;
 
-import com.mouflon.lessonspringboot.dto.request.CompanyRequest;
-import com.mouflon.lessonspringboot.dto.response.CompanyResponse;
-import com.mouflon.lessonspringboot.mapper.CompanyEditMapper;
-import com.mouflon.lessonspringboot.entity.Company;
+import com.mtemirdev.sblesson.dto.request.CompanyRequest;
+import com.mtemirdev.sblesson.dto.response.CompanyResponse;
+import com.mtemirdev.sblesson.mapper.CompanyEditMapper;
+import com.mtemirdev.sblesson.entity.Company;
 import lombok.RequiredArgsConstructor;
-import com.mouflon.lessonspringboot.mapper.CompanyViewMapper;
+import com.mtemirdev.sblesson.mapper.CompanyViewMapper;
 import org.springframework.stereotype.Service;
-import com.mouflon.lessonspringboot.repository.CompanyRepository;
+import com.mtemirdev.sblesson.repository.CompanyRepository;
 
 @Service
 @RequiredArgsConstructor

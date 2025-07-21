@@ -1,10 +1,10 @@
-package com.mouflon.lessonspringboot;
+package com.mtemirdev.sblesson;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LessonSpringBootApplicationTests {
+class SblessonApplicationTests {
 
     @Test
     void contextLoads() {

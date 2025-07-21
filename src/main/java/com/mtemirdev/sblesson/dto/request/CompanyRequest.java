@@ -1,4 +1,4 @@
-package com.mouflon.lessonspringboot.dto.request;
+package com.mtemirdev.sblesson.dto.request;
 
 import lombok.Getter;
 import lombok.NonNull;

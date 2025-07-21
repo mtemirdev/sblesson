@@ -1,7 +1,7 @@
-package com.mouflon.lessonspringboot.mapper;
+package com.mtemirdev.sblesson.mapper;
 
-import com.mouflon.lessonspringboot.dto.response.CompanyResponse;
-import com.mouflon.lessonspringboot.entity.Company;
+import com.mtemirdev.sblesson.dto.response.CompanyResponse;
+import com.mtemirdev.sblesson.entity.Company;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

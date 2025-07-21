@@ -1,12 +1,12 @@
-package com.mouflon.lessonspringboot;
+package com.mtemirdev.sblesson;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LessonSpringBootApplication {
+public class SblessonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LessonSpringBootApplication.class, args);
+        SpringApplication.run(SblessonApplication.class, args);
     }
 }

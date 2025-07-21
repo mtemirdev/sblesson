@@ -1,6 +1,6 @@
-package com.mouflon.lessonspringboot.repository;
+package com.mtemirdev.sblesson.repository;
 
-import com.mouflon.lessonspringboot.entity.Company;
+import com.mtemirdev.sblesson.entity.Company;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,10 +1,10 @@
-package com.mouflon.lessonspringboot.contoller;
+package com.mtemirdev.sblesson.contoller;
 
-import com.mouflon.lessonspringboot.dto.request.CompanyRequest;
-import com.mouflon.lessonspringboot.dto.response.CompanyResponse;
+import com.mtemirdev.sblesson.dto.request.CompanyRequest;
+import com.mtemirdev.sblesson.dto.response.CompanyResponse;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import com.mouflon.lessonspringboot.service.CompanyService;
+import com.mtemirdev.sblesson.service.CompanyService;
 
 import javax.validation.Valid;
 
